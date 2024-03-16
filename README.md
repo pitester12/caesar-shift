@@ -19,8 +19,7 @@ git clone https://github.com/pitester12/caesar-shift.git
 cd caesar-shift
 bash caesar.sh
 
-```powershell
-# Windows
+# Windows:
 git clone https://github.com/pitester12/caesar-shift.git
 cd caesar-shift
 caesar.ps1
